@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "DM Sans", sans-serif;
+}
+
+.range-input::-webkit-slider-thumb {
+  background-color: white;
+}
+
+.range-input::-moz-range-thumb {
+  background-color: white;
+}
+
+.range-input::-ms-thumb {
+  background-color: white;
+}

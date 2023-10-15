@@ -1,0 +1,3 @@
+- implementirati pregled kalendara, u smislu jasne vizualizacije aktivnih rezervacija (kako je to već napravljeno u sličnim sustavima), review a guest
+
+- kreiranje smjestaja slike - sindo link
